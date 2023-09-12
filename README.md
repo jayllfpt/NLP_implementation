@@ -4,3 +4,5 @@ some implementation for learning NLP
 Slide used for presentation: [week2.pptx](https://github.com/jayllfpt/NLP_implementation/blob/main/.week2.pptx)
 <Br>
 Some implementation for Tokenization and Words Embeddings methods
+# Warnings
+There might be some **bugs!**
